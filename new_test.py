@@ -1,1 +1,1 @@
-print(Gluuuuuuu)
+print('Gluuuuuuu')
